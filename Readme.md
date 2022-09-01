@@ -1,0 +1,1 @@
+Pequeno sistema de estoque de lojas em Pythom para um curso da Udemy
